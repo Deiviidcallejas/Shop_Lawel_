@@ -1,0 +1,15 @@
+
+#Navegation_bar{
+    background-color:rgb(164, 140, 231);
+    height: 50px;
+}
+#Navegation{
+    margin: 10px;
+    padding: 10px;
+    font-size: 19px;
+}
+#img{
+    display: flex;
+     align-items: center;
+}
+
